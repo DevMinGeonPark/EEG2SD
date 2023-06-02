@@ -184,3 +184,11 @@ experiments/*
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+lstm_kmean/data/readme.md
+lstm_kmean/data/eeg/char/data.pkl
+lstm_kmean/data/eeg/digit/data.pkl
+lstm_kmean/data/eeg/image/data.pkl
+lstm_kmean/experiments/best_ckpt/checkpoint
+lstm_kmean/experiments/best_ckpt/ckpt-2420.data-00000-of-00001
+lstm_kmean/experiments/best_ckpt/ckpt-2420.index
+lstm_kmean/experiments/inference/triplet_embed2D.csv
